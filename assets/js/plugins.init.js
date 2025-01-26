@@ -1,4 +1,4 @@
-/* Template Name: Travosy - Tour & Travels Agency Tailwind CSS Template
+/* Template Name: Glory O Tour & Travels
    Author: Shreethemes
    Email: support@shreethemes.in
    Website: https://shreethemes.in
